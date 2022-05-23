@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "744225565331",
+    "firebase_url": "https://newsatfingertips-sbm-default-rtdb.firebaseio.com",
+    "project_id": "newsatfingertips-sbm",
+    "storage_bucket": "newsatfingertips-sbm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744225565331:android:97b96af51eff8c8e99fb66",
+        "android_client_info": {
+          "package_name": "com.sbm.allnewsatfingertips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744225565331-ndb8qca8227jmveq41139pavfdlnfem7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbm.allnewsatfingertips",
+            "certificate_hash": "d0febacd3eb0ba178cb92f24c214296c4a36ed85"
+          }
+        },
+        {
+          "client_id": "744225565331-4mkds5psj8h738mfcovsa07tsbun2s8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpI0CCoSrXXOHev2a2OFarULAvR8XTnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744225565331-4mkds5psj8h738mfcovsa07tsbun2s8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
